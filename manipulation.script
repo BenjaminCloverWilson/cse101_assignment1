@@ -1,0 +1,23 @@
+Script started on 2021-09-01 12:30:49-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="203" LINES="55"]
+]0;ben@Clover-VirtualBox: ~/cse101/assignment1[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse101/assignment1[00m$ cd manipulating_files
+]0;ben@Clover-VirtualBox: ~/cse101/assignment1/manipulating_files[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse101/assignment1/manipulating_files[00m$ touch thcouc[K[K[K[Kouched[K[K[K[K[K[K[Kouched.txt
+]0;ben@Clover-VirtualBox: ~/cse101/assignment1/manipulating_files[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse101/assignment1/manipulating_files[00m$ gedit touched.e[Ktxt
+]0;ben@Clover-VirtualBox: ~/cse101/assignment1/manipulating_files[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse101/assignment1/manipulating_files[00m$ cat c[Ktouched.txt
+Manipulating files for the sake of my grad. <3 Have a nice day :)
+]0;ben@Clover-VirtualBox: ~/cse101/assignment1/manipulating_files[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse101/assignment1/manipulating_files[00m$ rm touched.txt
+]0;ben@Clover-VirtualBox: ~/cse101/assignment1/manipulating_files[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse101/assignment1/manipulating_files[00m$ cd empty_directory
+]0;ben@Clover-VirtualBox: ~/cse101/assignment1/manipulating_files/empty_directory[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse101/assignment1/manipulating_files/empty_directory[00m$ ls
+]0;ben@Clover-VirtualBox: ~/cse101/assignment1/manipulating_files/empty_directory[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse101/assignment1/manipulating_files/empty_directory[00m$ cd ..
+]0;ben@Clover-VirtualBox: ~/cse101/assignment1/manipulating_files[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse101/assignment1/manipulating_files[00m$ rmdir empty_directory
+]0;ben@Clover-VirtualBox: ~/cse101/assignment1/manipulating_files[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse101/assignment1/manipulating_files[00m$ cd full_directory
+]0;ben@Clover-VirtualBox: ~/cse101/assignment1/manipulating_files/full_directory[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse101/assignment1/manipulating_files/full_directory[00m$ ls
+file0   file11  file14  file17  file2   file22  file25  file28  file30  file33  file36  file39  file41  file44  file47  file5   file7
+file1   file12  file15  file18  file20  file23  file26  file29  file31  file34  file37  file4   file42  file45  file48  file50  file8
+file10  file13  file16  file19  file21  file24  file27  file3   file32  file35  file38  file40  file43  file46  file49  file6   file9
+]0;ben@Clover-VirtualBox: ~/cse101/assignment1/manipulating_files/full_directory[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse101/assignment1/manipulating_files/full_directory[00m$ cd ..
+]0;ben@Clover-VirtualBox: ~/cse101/assignment1/manipulating_files[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse101/assignment1/manipulating_files[00m$ rm -rf fi[Kull_directory
+]0;ben@Clover-VirtualBox: ~/cse101/assignment1/manipulating_files[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse101/assignment1/manipulating_files[00m$ ls
+]0;ben@Clover-VirtualBox: ~/cse101/assignment1/manipulating_files[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse101/assignment1/manipulating_files[00m$ exit
+exit
+
+Script done on 2021-09-01 12:34:15-06:00 [COMMAND_EXIT_CODE="0"]
